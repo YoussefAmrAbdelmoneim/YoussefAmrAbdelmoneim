@@ -61,3 +61,7 @@
 <p align="left">🌟 Frontend Expertise:<br><br>Angular enthusiast 🅰️<br><br>Proficient in Tailwind CSS 🎨 and Bootstrap 🛠️ for crafting responsive and sleek UIs<br><br>Skilled in jQuery for dynamic web interactions<br><br>Strong in TypeScript for clean and maintainable code<br><br>🚀 Backend Expertise:<br><br>.NET developer with deep knowledge of C# 🖥️<br><br>Experienced in SQL Server for database design and management 🗃️<br><br>Solid understanding of backend architecture and API development<br><br>🔧 Tech Stack & Tools:<br><br>Version Control: Git<br><br>IDEs: VS Code<br><br>API Testing: Postman<br><br>Design: Figma<br><br>Basics: C++, Java, and strong database fundamentals<br><br>🌱 Always learning and exploring new tools and technologies to level up my skills!<br>🤝 Open to collaborating on exciting projects and contributing to open-source.</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/YoussefAmrAbdelmoneim/YoussefAmrAbdelmoneim/output/snake.svg" alt="Snake animation" />
+
+###
